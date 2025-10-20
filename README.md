@@ -101,7 +101,7 @@ A lightweight, privacy-first AI calendar assistant that runs entirely on your lo
 
 2. **Clone & Setup**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ai-calendar-assistant.git
+   git clone https://github.com/othmane-zizi-pro/ai-calendar-assistant.git
    cd ai-calendar-assistant
    pip install -r requirements.txt
    ```
@@ -380,7 +380,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Othmane Zizi** - [othmane.zizi.pro@gmail.com](mailto:othmane.zizi.pro@gmail.com)
 
-Project Link: [https://github.com/YOUR_USERNAME/ai-calendar-assistant](https://github.com/YOUR_USERNAME/ai-calendar-assistant)
+Project Link: [https://github.com/othmane-zizi-pro/ai-calendar-assistant](https://github.com/othmane-zizi-pro/ai-calendar-assistant)
 
 ---
 
