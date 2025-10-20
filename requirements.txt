@@ -1,0 +1,25 @@
+# Lightweight Calendar Assistant Requirements
+
+# MCP SDK
+mcp>=0.9.0
+
+# Google Calendar API
+google-auth>=2.25.0
+google-auth-oauthlib>=1.2.0
+google-auth-httplib2>=0.2.0
+google-api-python-client>=2.110.0
+
+# LLM Integration
+ollama>=0.1.0
+langchain>=0.1.0
+langchain-community>=0.0.10
+
+# MCP Client for Ollama (connects local LLM to MCP servers)
+mcp-client-for-ollama>=0.20.0
+
+# CLI and utilities
+click>=8.1.7
+rich>=13.7.0
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+pytz>=2023.3

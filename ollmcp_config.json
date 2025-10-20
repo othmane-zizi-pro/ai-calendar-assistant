@@ -1,0 +1,6 @@
+{
+  "calendar": {
+    "command": "python3",
+    "args": ["run_calendar_server.py"]
+  }
+}
